@@ -8,7 +8,12 @@
                 <button class="btn dc-btn-green rounded-0 text-uppercase d-block mt-4">Get avada now!</button>
             </div>
         </section>
-        <section></section>
+        <section id="place">
+            <div class="place-content container d-flex flex-column align-items-center w-50">
+                <span class="text-uppercase pb-4 fw-bold fs-5 text-secondary">avada forum is the place to be</span>
+                <span class="text-center text-black-50 fs-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos totam quam cumque dolores asperiores quibusdam dolore et perferendis aliquid ex beatae est culpa error, unde ducimus quae dolorum veniam temporibus?</span>
+            </div>
+        </section>
         <section></section>
         <section></section>
         <section></section>
@@ -34,6 +39,12 @@
             h1{
                 font-size: 8rem;
             }
+        }
+    }
+    #place{
+        background-color: var(--light-grey-color);
+        .place-content{
+            padding: 100px 80px;
         }
     }
     button.dc-btn-green{
