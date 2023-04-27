@@ -1,6 +1,15 @@
 @import "bootstrap/scss/bootstrap";
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@300;400;500;600&display=swap');
 
+:root{
+    --azure-color: #28AFC3;
+    --white-color: #FFFFFF;
+    --dark-color: #191919;
+    --light-orange-color: #FF8D61;
+    --light-grey-color:#F2F2F2;
+    --dark-grey-color:#707070;
+}
+
 body{
     font-family: 'Fira Sans Extra Condensed', sans-serif;
 }

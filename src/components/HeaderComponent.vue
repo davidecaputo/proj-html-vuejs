@@ -31,7 +31,7 @@
     header{
         width: 100%;
         height: 100px;
-        background-color: #28afc3;
+        background-color: var(--azure-color);
     }
 
     a{
