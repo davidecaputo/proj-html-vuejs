@@ -21,7 +21,7 @@
                 <div class="row py-5">
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_25-320x202.jpg" alt="">
-                        <h5>Morbi vitae dui euismod vulputate sollicitudin</h5>
+                        <h5 class="mt-2">Morbi vitae dui euismod vulputate sollicitudin</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 |</span> <span class="text-black">2 Comments</span>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum minima reiciendis omnis assumenda perspiciatis! Deserunt adipisci nulla velit. Ut minus assumenda vero eos corrupti doloremque quam repudiandae nam dolorem dolores.</p>
@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_24-320x202.jpg" alt="">
-                        <h5>Vivamus pellenteque, felis quis varius</h5>
+                        <h5 class="mt-2">Vivamus pellenteque, felis quis varius</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo corrupti quisquam, reiciendis mollitia animi, expedita, eligendi distinctio repellat excepturi dolor numquam inventore? Maiores veritatis, distinctio et inventore magnam ullam at.</p>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_23-320x202.jpg" alt="">
-                        <h5>Donec ornare pretium eget scelisque justo</h5>
+                        <h5 class="mt-2">Donec ornare pretium eget scelisque justo</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae sequi reprehenderit dolore minus sed itaque assumenda neque maiores quos praesentium soluta obcaecati vero cupiditate esse error quam et, ullam consequatur!</p>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_22-320x202.jpg" alt="">
-                        <h5>Fusce sollicitudin nunc sed placerat varius</h5>
+                        <h5 class="mt-2">Fusce sollicitudin nunc sed placerat varius</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae sequi reprehenderit dolore minus sed itaque assumenda neque maiores quos praesentium soluta obcaecati vero cupiditate esse error quam et, ullam consequatur!</p>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_21-320x202.jpg" alt="">
-                        <h5>Donec facilis sodales leo sit amet laoreet</h5>
+                        <h5 class="mt-2">Donec facilis sodales leo sit amet laoreet</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae sequi reprehenderit dolore minus sed itaque assumenda neque maiores quos praesentium soluta obcaecati vero cupiditate esse error quam et, ullam consequatur!</p>
@@ -70,7 +70,7 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_20-320x202.jpg" alt="">
-                        <h5>Proin eu purus sed aru aliquet curabir vens</h5>
+                        <h5 class="mt-2">Proin eu purus sed aru aliquet curabir vens</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae sequi reprehenderit dolore minus sed itaque assumenda neque maiores quos praesentium soluta obcaecati vero cupiditate esse error quam et, ullam consequatur!</p>
