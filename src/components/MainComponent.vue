@@ -23,7 +23,7 @@
                         <img src="../../public/img/post_feat_img_25-320x202.jpg" alt="">
                         <h5>Morbi vitae dui euismod vulputate sollicitudin</h5>
                         <div class="text-secondary">
-                            <span>October 11th, 2015 | 2 Comments</span>
+                            <span>October 11th, 2015 |</span> <span class="text-black">2 Comments</span>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum minima reiciendis omnis assumenda perspiciatis! Deserunt adipisci nulla velit. Ut minus assumenda vero eos corrupti doloremque quam repudiandae nam dolorem dolores.</p>
                         </div>
                     </div>
@@ -37,14 +37,14 @@
                     </div>
                     <div class="col-12 col-md-6 col-lg-4">
                         <img src="../../public/img/post_feat_img_23-320x202.jpg" alt="">
-                        <h5>Donec ornare pretium eget scelisque</h5>
+                        <h5>Donec ornare pretium eget scelisque justo</h5>
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae sequi reprehenderit dolore minus sed itaque assumenda neque maiores quos praesentium soluta obcaecati vero cupiditate esse error quam et, ullam consequatur!</p>
                         </div>
                     </div>
                     <div class="col-12 position-relative py-5">
-                        <img src="public/img/featured_article_1_bg.jpg" alt="article">
+                        <img src="public/img/featured_article_1_bg.jpg" alt="article 1">
                         <div class="article text-white">
                             <h6 class="text-uppercase pb-2">Featured article</h6>
                             <h2>Cras malesuada et orci eget pharetra</h2>
@@ -74,6 +74,41 @@
                         <div class="text-secondary">
                             <span>October 11th, 2015 | Comments Off</span>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae sequi reprehenderit dolore minus sed itaque assumenda neque maiores quos praesentium soluta obcaecati vero cupiditate esse error quam et, ullam consequatur!</p>
+                        </div>
+                    </div>
+                    <div class="col-8 position-relative mt-5">
+                        <img src="../../public/img/featured_article_2_bg.jpg" alt="article 2">
+                        <div class="article-2 text-white">
+                            <h6 class="text-uppercase pb-2">Reviewed product</h6>
+                            <h2 class="w-75">Mauris viverra atisan ipsum eget felis prims efficitur varius</h2>
+                            <p class="w-75 py-2">In quis lectus sed leo elementum faucibus in dapibus dictum. Nullamolestie tortor nec lectus venenatis, sed blandit dui, dolor at bibendum.</p>
+                            <button class="btn dc-btn dc-btn-black text-uppercase">Read more</button>
+                        </div>
+                    </div>
+                    <div class="col-4 d-flex flex-column justify-content-between mt-5">
+                        <h2>Tutorials & Guides</h2>
+                        <div class="d-flex flex-column gap-4 tutorial-images">
+                            <div class="d-flex gap-3">
+                                <img src="../../public/img/post_feat_img_23-147x118.jpg" alt="post-img-23">
+                                <div>
+                                    <h6 class="w-50">Donec ornare pretium eget scelisque justo</h6>
+                                    <span class="text-secondary">October 11th, 2015 | Comments Off</span>
+                                </div>
+                            </div>
+                            <div class="d-flex gap-3">
+                                <img src="../../public/img/post_feat_img_22-147x118.jpg" alt="post-img-22">
+                                <div>
+                                    <h6 class="w-50">Fusce sollicitudin nunc sed placerat varius</h6>
+                                    <span class="text-secondary">October 11th, 2015 | Comments Off</span>
+                                </div>
+                            </div>
+                            <div class="d-flex gap-3">
+                                <img src="../../public/img/post_feat_img_20-147x118.jpg" alt="post-img-20">
+                                <div>
+                                    <h6 class="w-50">Proin eu purus sed aru aliquet curabir vens</h6>
+                                    <span class="text-secondary">October 11th, 2015 | Comments Off</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -122,6 +157,17 @@
             h6{
                 letter-spacing: 1rem;
             }
+        }
+        .article-2{
+            position: absolute;
+            top: 24%;
+            left: 10%;
+            h6{
+                letter-spacing: 1rem;
+            }
+        }
+        .tutorial-images img{
+            width: 40%;
         }
     }
 
