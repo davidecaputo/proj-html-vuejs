@@ -114,7 +114,12 @@
                 </div>
             </div>
         </section>
-        <section></section>
+        <section id="blog">
+            <a href="#" class="d-flex justify-content-center align-items-baseline">
+                <h5 class="text-white text-uppercase">Read our blog</h5>
+                <i class="fa-solid fa-right-long ms-2" style="color: #ffffff;"></i>
+            </a>
+        </section>
         <section></section>
         <section></section>
         <section></section>
@@ -174,6 +179,10 @@
         .tutorial-images img{
             width: 40%;
         }
+    }
+    #blog{
+        background-color: var(--dark-color);
+        padding: 60px;
     }
 
     .dc-btn{

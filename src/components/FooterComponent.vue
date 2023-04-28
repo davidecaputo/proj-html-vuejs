@@ -11,19 +11,19 @@
                 <div class="col-3">
                     <ul>
                         <li class="text-uppercase mb-4"><h5>{{ footerElements.listElement2.title }}</h5></li>
-                        <li v-for="(element, index) of footerElements.listElement2.content"><a href="#">{{ element }}</a><hr></li>
+                        <li v-for="(element, index) of footerElements.listElement2.content" :key="index"><a href="#">{{ element }}</a><hr></li>
                     </ul>
                 </div>
                 <div class="col-3">
                     <ul>
                         <li class="text-uppercase mb-4"><h5>{{ footerElements.listElement3.title }}</h5></li>
-                        <li v-for="(element, index) of footerElements.listElement3.content"><a href="#">{{ element }}</a><hr></li>
+                        <li v-for="(element, index) of footerElements.listElement3.content" :key="index"><a href="#">{{ element }}</a><hr></li>
                     </ul>
                 </div>
                 <div class="col-3">
                     <ul>
                         <li class="text-uppercase mb-4"><h5>{{ footerElements.listElement4.title }}</h5></li>
-                        <li v-for="(element, index) of footerElements.listElement4.content"><a href="#">{{ element }}</a><hr></li>
+                        <li v-for="(element, index) of footerElements.listElement4.content" :key="index"><a href="#">{{ element }}</a><hr></li>
                     </ul>
                 </div>
             </div>
@@ -52,7 +52,7 @@
     footer{
         width: 100%;
         height: 500px;
-        padding: 20px 0px;
+        padding: 80px 0px;
         a{
         color: var(--dark-color);
         &:hover{
