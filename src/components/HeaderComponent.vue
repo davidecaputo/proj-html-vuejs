@@ -14,14 +14,14 @@
 </template>
 
 <script>
-    import { store } from '../store/store';
     export default {
+        name: 'HeaderComponent',
         props: {
             headerElements: Object
         },
         data() {
             return {
-                store
+                
             }
         },
     }
@@ -32,13 +32,13 @@
         width: 100%;
         height: 100px;
         background-color: var(--azure-color);
-    }
-
-    a{
-        color: white;
-        &:hover{
-            color: lightblue;
+        a{
+            color: white;
+            &:hover{
+                color: lightblue;
+            }
         }
     }
+
 
 </style>

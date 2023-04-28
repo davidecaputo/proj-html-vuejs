@@ -21,7 +21,7 @@ export default {
 <template>
   <HeaderComponent :header-elements="store.header" />
   <MainComponent />
-  <FooterComponent />
+  <FooterComponent :footer-elements="store.footer" />
 </template>
 
 <style scoped>
